@@ -1,17 +1,15 @@
 #===========================================================================================#
 #  A
 # ==========================================================================================#
-# author            : Laveen , Umang ,Sumit ,Vikas                			    								#
-# roll_number       : 17CS60R64   , 17CS60R72                      			    								#	
+# author            :  Sumit Verma              			    								#
 # date              : 7th April 2018                          	           								  #
-# usage             : python main.py													 	            								#
-#									                            																							#
+# usage             : python main.py													 	            								#								                            																							#
 # python_version    : 2.7.12                                             								    #
 #===========================================================================================#
 # Dependencies & prerequisite      : 1)  NLTK   for preprocessing	 													#
-#											               2)  JSON   for JSON Handling                           #	 
-#											               3)  Numpy  for Vector representation and operations		#
-#											               4)  OpenIE for relation between two concepts						#
+#                                    2)  JSON   for JSON Handling                           #	 
+#                                    3)  Numpy  for Vector representation and operations		#
+#                                    4)  OpenIE for relation between two concepts						#
 # 																	 5)  Glove  for word2vec																#
 # ==========================================================================================#
 import os
